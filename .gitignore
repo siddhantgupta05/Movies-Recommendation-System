@@ -1,0 +1,10 @@
+# Ignore ML / model artifacts
+*.pkl
+*.pickle
+*.joblib
+
+# Python
+__pycache__/
+venv/
+.env
+
